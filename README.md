@@ -11,6 +11,7 @@ I'm a developer passionate about building scalable apps and working with cloud t
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jay24666&show_icons=true&theme=tokyonight)
 
 ## 🗂️ My Projects
+- [Netflix-App](https://github.com/JAY24666/DevSecOps-Project.git)
 - [Retail Store Sample App](https://github.com/aws-containers/retail-store-sample-app)
 - [Business Management App](https://github.com/jay24666/business-mgmt-app)
 
@@ -18,7 +19,7 @@ I'm a developer passionate about building scalable apps and working with cloud t
 ![Jay's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jay24666&theme=github-compact)
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/jayanth-sai-srinivas-kandregula-50498338a/)
 - [Twitter](https://twitter.com/yourprofile)
 
 - ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jay24666&show_icons=true&theme=tokyonight)
